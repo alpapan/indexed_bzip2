@@ -174,3 +174,6 @@ latex.out/
 *.idx
 *.ilg
 *.ind
+
+# Audit trail written by the pre-commit hook - committed by design.
+!.audit/*.log
